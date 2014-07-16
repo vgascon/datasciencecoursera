@@ -1,4 +1,5 @@
-datasciencecoursera
-===================
+DataScience Coursera Repository
+===============================
 
-Repository for the Coursera specialization in DataScience
+Repo for the Coursera specialization in DataScience
+
